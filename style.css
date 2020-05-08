@@ -1,0 +1,19 @@
+/*
+ * Theme Name: Block Theme
+ * Theme URI:
+ * Author: Micah Wood
+ * Author URI: https://wpscholar.com
+ * Description: A block theme experiment
+ * Version: 1.0
+ * Text Domain: block-theme
+ * License: GNU General Public License v2 or later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ *
+ * See https://themeshaper.com/2020/01/21/creating-a-block-based-theme-using-block-templates/
+ */
+
+.wp-site-blocks {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 25px;
+}

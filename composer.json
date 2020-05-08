@@ -1,0 +1,16 @@
+{
+  "name": "wpscholar/block-theme",
+  "description": "An experiment with the new block-based theme approach in WordPress.",
+  "type": "wp-theme",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Micah Wood",
+      "email": "micah@wpscholar.com"
+    }
+  ],
+  "require": {
+    "wpscholar/wp-context": "^1.1",
+    "wp-forge/helpers": "^1.0"
+  }
+}
